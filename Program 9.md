@@ -11,6 +11,5 @@ int main() {
     }
 
     printf("The reverse of the integer is: %d\n", rev);
-
     return 0;
 }
